@@ -1,2 +1,2 @@
-*.exe
-/ ignorado.txt
+.exe
+ignorado.txt
