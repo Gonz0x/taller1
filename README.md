@@ -8,3 +8,7 @@ _*.exe_
 y de esa forma ignoraría todos archivos extensión .exe
 
 - Para cada elemento que quiera ignorar puede ser escrito de distinta forma ya sea con un asterisco o '/' directorios o utilizando .(archivo)
+
+### Respuesta apartado g
+- es la misma ya que el puntero lo que hace es almacenar la direccion de memoria de la varible numero.
+- en el punto 4 obtrngo la direccion de memoria del puntero, la cual es distinta a la direccion de memoria de los puntos anteriores ya que es la direccion de memoria del puntero, no de la variable numero, sino que de la variable punt.
