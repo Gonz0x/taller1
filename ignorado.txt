@@ -1,3 +1,1 @@
-un gitignore es para ignorar archivos que no queres
-por ejemplo 
-en c te crea .exe
+el ignorado
